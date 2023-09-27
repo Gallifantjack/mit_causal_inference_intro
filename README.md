@@ -1,6 +1,6 @@
 # MIT Intro to Causal Inference 2023
 
-## Credit
+## Credit
 
 - The best resource for getting started is Richard McElreath's outstanding lecture series [Statistical Rethinking 2023](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus).
 - The full notebooks have been converted to Python/PyMC 5 by Dustin Stanbury and are available [here](https://github.com/dustinstansbury/statistical-rethinking-2023.git)
@@ -12,8 +12,6 @@
 To run locally you will need to install the following:
 
 ```bash
-$ conda env create -f statistical-rethinking-2023.yml
-$ conda activate statistical-rethinking-2023
+$ conda env create -f mit_causal_inference_intro.yml
+$ conda activate mit_causal_inference_intro
 ```
-
-Google Colab support is pending XXX
