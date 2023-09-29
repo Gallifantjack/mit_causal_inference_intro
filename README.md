@@ -12,6 +12,7 @@
 To run locally you will need to install the following:
 
 ```bash
+$ git clone https://github.com/Gallifantjack/mit_causal_inference_intro.git
 $ conda env create -f mit_causal_inference_intro.yml
 $ conda activate mit_causal_inference_intro
 ```
